@@ -10,7 +10,7 @@ If you have a thrilling Machine Learning project in need of an extra set of hand
 
 ## Socials 🌐
 
-🔗 My Linkdin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sr-on-ln) 
+🔗 My Linkdin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sr-on-ln/) 
 
 
 📩 For contact, email shivambroad@gmail.com .
