@@ -45,9 +45,11 @@ If you have a thrilling Machine Learning project in need of an extra set of hand
 ![NumPy](https://img.shields.io/badge/NumPy-white?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/seaborn-FF9900?style=for-the-badge&logo=seaborn&logoColor=yellow)
-![Matplotlib](https://img.shields.io/badge/matplotlib-4285F4?style=for-the-badge&logo=Color=white) 
+![Matplotlib](https://img.shields.io/badge/matplotlib-4285F4?style=for-the-badge&logo=Color=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=jupyter&logoColor=orange)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch&logoColor=orange)
+
 
 ### Cloud, Tools, Database:
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
