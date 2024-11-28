@@ -23,7 +23,7 @@ If you have a thrilling Machine Learning project in need of an extra set of hand
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,c" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,c,js" />
   </a>
 </p>
 
